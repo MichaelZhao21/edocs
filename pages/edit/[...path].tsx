@@ -23,7 +23,7 @@ const EditFile: NextPage = () => {
     return (
         <div>
             <Menu />
-            <div style={{ padding: '1rem' }} ref={editorDiv} />
+            <div style={{ padding: '2rem' }} ref={editorDiv} />
         </div>
     );
 };

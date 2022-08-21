@@ -5,6 +5,12 @@ export default function Document() {
         <Html>
             <Head>
                 <meta name="robots" content="noindex,nofollow" />
+                <link rel="preconnect" href="https://fonts.googleapis.com" />
+                <link rel="preconnect" href="https://fonts.gstatic.com" />
+                <link
+                    href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap"
+                    rel="stylesheet"
+                />
             </Head>
             <body>
                 <Main />
